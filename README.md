@@ -17,7 +17,7 @@ CRAN es una red de servidores ftp y web en todo el mundo que almacenan versiones
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
 <!-- badges: end -->
 
-#RMARKDOWN+KNITR <img src="rmarkdown+knitr.jpeg" align="right" width="120" />
+# Rmarkdown+Knitr <img src="rmarkdown+knitr.jpeg" align="right" width="120" />
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/tidyverse/Rmarkdown/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
