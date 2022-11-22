@@ -24,3 +24,11 @@ CRAN es una red de servidores ftp y web en todo el mundo que almacenan versiones
 [![Codecov test coverage](https://codecov.io/gh/Rmarkdown/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/Rmarkdown)](https://cran.r-project.org/package=ggplot2)
 <!-- badges: end -->
+
+# Tidyverse <img src="rmarkdown+knitr.jpeg" align="right" width="120" />
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/tidyverse/tidyverse/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
+[![Codecov test coverage](https://codecov.io/gh/Rmarkdown/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/tidyverse?branch=main)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/tidyverse)](https://cran.r-project.org/package=tidyverse)
+<!-- badges: end -->
