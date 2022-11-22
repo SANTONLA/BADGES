@@ -17,7 +17,7 @@ ggplot2 es un sistema para crear gráficos declarativamente, basado en The Gramm
 [![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
 [![Codecov test coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
-[![Cheatsheet](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
+[![Cheatsheet](ggplot2-cheatsheet-2.1-Spanish.pdf)
 <!-- badges: end -->
 
 # Rmarkdown+Knitr <img src="rmarkdown+knitr.jpeg" align="right" width="120" />
