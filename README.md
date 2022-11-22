@@ -44,7 +44,7 @@ para procesar otros formatos de archivo.
 
 # Tidyverse <img src="tidyverse.png" align="right" width="120" />
 
-The core tidyverse includes the packages that you’re likely to use in everyday data analyses. As of tidyverse 1.3.0, the following packages are included in the core tidyverse:
+El tidyverse central incluye los paquetes que probablemente usará en los análisis de datos cotidianos. A partir de tidyverse 1.3.0, los siguientes paquetes se incluyen en el core tidyverse:
 
 https://www.tidyverse.org/packages/#core-tidyverse
 
