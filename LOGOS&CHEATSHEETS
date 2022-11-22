@@ -1,0 +1,45 @@
+
+# ggplot2 <img src="ggplot2logo.png" align="right" width="120" />
+
+ggplot2 es un sistema para crear gráficos declarativamente, basado en The Grammar of Graphics. Usted proporciona los datos, le dice a ggplot2 cómo asignar variables a la estética, qué primitivas gráficas usar y se ocupa de los detalles.
+
+ggplot2-cheatsheet-2.1-Spanish.pdf
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
+[![Codecov test coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/ggplot2)](https://cran.r-project.org/package=ggplot2)
+[![Cheatsheet](ggplot2-cheatsheet-2.1-Spanish.pdf)
+<!-- badges: end -->
+
+# Rmarkdown+Knitr <img src="rmarkdown+knitr.jpeg" align="right" width="120" />
+
+R Markdown proporciona un marco de creación para la ciencia de datos. Puede usar un solo archivo R Markdown para ambos
+guardar y ejecutar código generar informes de alta calidad que se pueden compartir con una audiencia
+Los documentos de R Markdown son totalmente reproducibles y admiten docenas de formatos de salida estáticos y dinámicos. 
+
+El paquete knitr es una implementación de Literate Programming, un paradigma de programación que
+entremezclar fragmentos de código (para computación) con prosa (para documentación) en el mismo documento.
+Detalles
+Cuando se compila el documento, los fragmentos de código se pueden ejecutar y los resultados de la computación
+(texto o gráficos) se escriben automáticamente en la salida junto con el texto.
+Este paquete es una herramienta alternativa a Sweave con un diseño más flexible y nuevas características como
+almacenamiento en caché y un control más preciso de los gráficos. No se limita a LaTeX y está listo para ser personalizado
+para procesar otros formatos de archivo.
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/Rmarkdown/knitr/workflows/R-CMD-check/badge.svg)](https://github.com/Rmarkdown/knitr/actions)
+[![Codecov test coverage](https://codecov.io/gh/Rmarkdown/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Rmarkdown/knitr branch=main)
+[![CRAN_Status_Badge](https://cran.r-project.org/web/packages/markdown/index.html)]
+
+# Tidyverse <img src="tidyverse.png" align="right" width="120" />
+
+The core tidyverse includes the packages that you’re likely to use in everyday data analyses. As of tidyverse 1.3.0, the following packages are included in the core tidyverse:
+
+https://www.tidyverse.org/packages/#core-tidyverse
+
+<!-- badges: start -->
+[![R-CMD-check](https://github.com/tidyverse/tidyverse/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/actions)
+[![Codecov test coverage](https://codecov.io/gh/tidyverse/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/tidyverse?branch=main)
+[![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/tidyverse)](https://cran.r-project.org/package=tidyverse)
+<!-- badges: end -->
