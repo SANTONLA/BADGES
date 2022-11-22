@@ -1,4 +1,4 @@
-# BADGES
+# BADGES & CHEATSHEETS
 
 Este es un repositorio con código para poner los distintos logos de las librerias así como sus versiones.
 
