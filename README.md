@@ -35,7 +35,7 @@ almacenamiento en caché y un control más preciso de los gráficos. No se limit
 para procesar otros formatos de archivo.
 
 <!-- badges: start -->
-[![R-CMD-check](https://github.com/Rmarkdown/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
+[![R-CMD-check](https://github.com/Rmarkdown/knitr/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
 [![Codecov test coverage](https://codecov.io/gh/Rmarkdown/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
 [![CRAN_Status_Badge](https://www.r-pkg.org/badges/version/Rmarkdown)](https://cran.r-project.org/package=ggplot2)
 <!-- badges: end -->
