@@ -42,6 +42,8 @@ para procesar otros formatos de archivo.
 
 # Tidyverse <img src="tidyverse.png" align="right" width="120" />
 
+https://www.tidyverse.org/packages/#core-tidyverse
+
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/tidyverse/tidyverse/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/actions)
 [![Codecov test coverage](https://codecov.io/gh/tidyverse/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/tidyverse?branch=main)
