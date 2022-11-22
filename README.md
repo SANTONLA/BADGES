@@ -11,6 +11,8 @@ CRAN es una red de servidores ftp y web en todo el mundo que almacenan versiones
 
 # ggplot2 <img src="ggplot2logo.png" align="right" width="120" />
 
+ggplot2 es un sistema para crear gráficos declarativamente, basado en The Grammar of Graphics. Usted proporciona los datos, le dice a ggplot2 cómo asignar variables a la estética, qué primitivas gráficas usar y se ocupa de los detalles.
+
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
 [![Codecov test coverage](https://codecov.io/gh/tidyverse/ggplot2/branch/main/graph/badge.svg)](https://app.codecov.io/gh/tidyverse/ggplot2?branch=main)
@@ -18,6 +20,19 @@ CRAN es una red de servidores ftp y web en todo el mundo que almacenan versiones
 <!-- badges: end -->
 
 # Rmarkdown+Knitr <img src="rmarkdown+knitr.jpeg" align="right" width="120" />
+
+R Markdown proporciona un marco de creación para la ciencia de datos. Puede usar un solo archivo R Markdown para ambos
+guardar y ejecutar código generar informes de alta calidad que se pueden compartir con una audiencia
+Los documentos de R Markdown son totalmente reproducibles y admiten docenas de formatos de salida estáticos y dinámicos. 
+
+El paquete knitr es una implementación de Literate Programming, un paradigma de programación que
+entremezclar fragmentos de código (para computación) con prosa (para documentación) en el mismo documento.
+Detalles
+Cuando se compila el documento, los fragmentos de código se pueden ejecutar y los resultados de la computación
+(texto o gráficos) se escriben automáticamente en la salida junto con el texto.
+Este paquete es una herramienta alternativa a Sweave con un diseño más flexible y nuevas características como
+almacenamiento en caché y un control más preciso de los gráficos. No se limita a LaTeX y está listo para ser personalizado
+para procesar otros formatos de archivo.
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/tidyverse/Rmarkdown/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
