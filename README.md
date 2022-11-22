@@ -13,7 +13,7 @@ CRAN es una red de servidores ftp y web en todo el mundo que almacenan versiones
 
 ggplot2 es un sistema para crear gráficos declarativamente, basado en The Grammar of Graphics. Usted proporciona los datos, le dice a ggplot2 cómo asignar variables a la estética, qué primitivas gráficas usar y se ocupa de los detalles.
 
-ggplot2-cheatsheet-2.1-Spanish.pdf
+
 
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/tidyverse/ggplot2/workflows/R-CMD-check/badge.svg)](https://github.com/tidyverse/ggplot2/actions)
