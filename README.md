@@ -40,7 +40,7 @@ para procesar otros formatos de archivo.
 <!-- badges: start -->
 [![R-CMD-check](https://github.com/Rmarkdown/knitr/workflows/R-CMD-check/badge.svg)](https://github.com/Rmarkdown/knitr/actions)
 [![Codecov test coverage](https://codecov.io/gh/Rmarkdown/branch/main/graph/badge.svg)](https://app.codecov.io/gh/Rmarkdown/knitr branch=main)
-[![CRAN_Status_Badge](https://cran.r-project.org/web/packages/markdown/index.html)]
+[![CRAN_Status_Badge]([https://cran.r-project.org/web/packages/markdown/index.html](https://cran.r-project.org/web/packages/knitr/index.html))]
 
 # Tidyverse <img src="tidyverse.png" align="right" width="120" />
 
